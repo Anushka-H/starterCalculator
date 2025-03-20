@@ -37,6 +37,6 @@ public class Main {
                 break;
         }
 
-        //keyboardInput.close();
+        keyboardInput.close();
     }
 }
